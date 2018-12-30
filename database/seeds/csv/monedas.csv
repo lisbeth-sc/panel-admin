@@ -1,0 +1,19 @@
+id;descripcion;simbolo;codigo_iso;unidad_fraccionaria;division;estado
+1;libra esterlina;£;GBP;penique;100;1
+2;euro;€;EUR;cent;100;1
+3;peso argentino;$;ARS;centavo;100;1
+4;dólar australiano;$;AUD;céntimo;100;1
+5;real brasileño;R$;BRL;centavo;100;1
+6;boliviano;Bs.;BOB;centavo;100;1
+7;dólar canadiense;$;CAD;céntimo;100;1
+8;peso colombiano;$;COP;centavo;100;1
+9;colón costarricense;?;CRC;céntimo;100;1
+10;peso cubano;$;CUP;centavo;100;1
+11;dólar estadounidense;$;USD;Centavos de dólar de Ecuador;100;1
+12;quetzal;Q;GTQ;centavo;100;1
+13;peso mexicano;$;MXN;centavo;100;1
+14;guaraní paraguayo;?;PYG;céntimo;100;1
+15;nuevo sol peruano;S/.;PEN;céntimo;100;1
+16;peso uruguayo;$;UYU;centésimo;100;1
+17;dólar estadounidense;$;USD;centavo;100;1
+18;bolívar fuerte;Bs F;VEF;céntimo;100;1
